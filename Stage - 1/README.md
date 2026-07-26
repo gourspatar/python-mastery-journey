@@ -15,7 +15,6 @@ This stage marks the beginning of my Python learning journey.
 
 ## Programs Created
 - Age Checker
-- Bank Account System
 - Other practice programs
 
 ## Objective
