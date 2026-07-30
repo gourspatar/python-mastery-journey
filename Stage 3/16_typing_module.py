@@ -18,7 +18,7 @@ def get_student() -> Dict[str, int]:
     return {"age": 20, "marks": 95}
 
 
-# Union
+# Uniongit statu
 def square(number: Union[int, float]) -> Union[int, float]:
     return number ** 2
 
