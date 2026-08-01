@@ -1,0 +1,16 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
